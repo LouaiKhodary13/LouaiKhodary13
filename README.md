@@ -44,5 +44,9 @@ Let's connect and explore opportunities to collaborate 🚀
 - HTML and CSS in depth - Coursera 
 - Introduction to Front-End Development - Coursera 
 
-Feel free to reach out if you'd like to collaborate or exchange ideas. Let's learn and grow together! 🚀
+## Contact Me
+
+Feel free to reach out to me via [email](mailto:louai.z.khodary@gmail.com) 
+
+Let's build something awesome together! 🚀
 
