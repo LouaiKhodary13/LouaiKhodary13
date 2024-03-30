@@ -1,3 +1,8 @@
+<style>
+  .react{
+    display:flex;
+    aling-items:center;
+</style>
 👋 Hi there! I hold a Bachelor's Degree in Computer Science and am an aspiring Frontend Developer committed to crafting exceptional web experiences. With a dedication to excellence in frontend development, I'm eager to learn, grow, and make a meaningful impact in the world of web development.
 
 Let's connect and explore opportunities to collaborate!
@@ -10,9 +15,10 @@ Let's connect and explore opportunities to collaborate!
 ![](https://github-profile-trophy.vercel.app/?username=LouaiKhodary13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
+<div class="react">
   React.js
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30">
-
+</div>
   TypeScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30">
 
