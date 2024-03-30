@@ -21,6 +21,8 @@ Let's connect and explore opportunities to collaborate 🚀
 ![useFormik](https://img.shields.io/badge/-useFormik-F49F0A)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
