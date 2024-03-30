@@ -44,6 +44,7 @@ Let's connect and explore opportunities to collaborate!
 - Principles of UX/UI Design - Coursera 
 - Advanced React - Coursera 
 - React Basics - Coursera
+- Version Control - Coursera
 - Programming with JavaScript - Coursera 
 - HTML and CSS in depth - Coursera 
 - Introduction to Front-End Development - Coursera 
