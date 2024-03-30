@@ -14,7 +14,11 @@ Let's connect and explore opportunities to collaborate 🚀
 
 # 💻 Tech Stack:
 
- React.js
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?logo=redux&logoColor=white)
+
  
  TypeScript
 
