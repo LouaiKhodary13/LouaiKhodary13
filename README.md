@@ -20,6 +20,8 @@ Let's connect and explore opportunities to collaborate 🚀
 ![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?logo=redux&logoColor=white)
 ![useFormik](https://img.shields.io/badge/-useFormik-F49F0A)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
