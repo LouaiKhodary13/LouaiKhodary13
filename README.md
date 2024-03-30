@@ -29,7 +29,7 @@ Let's connect and explore opportunities to collaborate!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30">
 
  Chakra UI
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" alt="Chakra UI" width="30" height="30">
+  <img src="[https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg"](https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg) alt="Chakra UI" width="30" height="30">
 
   Git
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30">
