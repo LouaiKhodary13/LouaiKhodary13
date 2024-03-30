@@ -1,6 +1,9 @@
-👋 Hi there! I hold a Bachelor's Degree in Computer Science and am an aspiring Frontend Developer committed to crafting exceptional web experiences. With a dedication to excellence in frontend development, I'm eager to learn, grow, and make a meaningful impact in the world of web development.
+💫 About Me:
 
-Let's connect and explore opportunities to collaborate!
+📅 Bachelor's Degree in Computer Science 💻 and I am an aspiring Frontend Developer committed to crafting exceptional web experiences.
+With a dedication to excellence in frontend development.
+
+Let's connect and explore opportunities to collaborate 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louai-khodary-21046624b/) 
