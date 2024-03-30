@@ -21,14 +21,14 @@ Let's connect and explore opportunities to collaborate!
 
   Redux.js
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux.js" width="30" height="30">
-
+  
   Material UI
   <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="30" height="30">
 
-  Tailwind CSS
+ Tailwind CSS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30">
 
-  Chakra UI
+ Chakra UI
   <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" alt="Chakra UI" width="30" height="30">
 
   Git
