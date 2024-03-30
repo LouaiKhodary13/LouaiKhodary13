@@ -1,8 +1,3 @@
-<style>
-  .react{
-    display:flex;
-    aling-items:center;
-</style>
 👋 Hi there! I hold a Bachelor's Degree in Computer Science and am an aspiring Frontend Developer committed to crafting exceptional web experiences. With a dedication to excellence in frontend development, I'm eager to learn, grow, and make a meaningful impact in the world of web development.
 
 Let's connect and explore opportunities to collaborate!
@@ -15,39 +10,63 @@ Let's connect and explore opportunities to collaborate!
 ![](https://github-profile-trophy.vercel.app/?username=LouaiKhodary13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
-<div class="react">
-  React.js
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30">
-</div>
-  TypeScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30">
+
+ React.js
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your React SVG icon code here -->
+  </svg>
+
+ TypeScript
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your TypeScript SVG icon code here -->
+  </svg>
 
   JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your JavaScript SVG icon code here -->
+  </svg>
 
   Redux.js
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux.js" width="30" height="30">
-  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your Redux SVG icon code here -->
+  </svg>
+
   Material UI
-  <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="30" height="30">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your Material UI SVG icon code here -->
+  </svg>
 
- Tailwind CSS
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30">
+  Tailwind CSS
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your Tailwind CSS SVG icon code here -->
+  </svg>
 
- Chakra UI
-  <img src="[https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg"](https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg) alt="Chakra UI" width="30" height="30">
+  Chakra UI
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your Chakra UI SVG icon code here -->
+  </svg>
 
   Git
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your Git SVG icon code here -->
+  </svg>
 
-  GitHub
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30">
+ GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your GitHub SVG icon code here -->
+  </svg>
 
-  Cascading Style Sheets (CSS)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
+ Cascading Style Sheets (CSS)
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your CSS SVG icon code here -->
+  </svg>
 
-  HTML5
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
+- HTML5
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
+    <!-- Your HTML5 SVG icon code here -->
+  </svg>
+
+
 
 - # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LouaiKhodary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
