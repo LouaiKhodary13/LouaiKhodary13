@@ -37,6 +37,8 @@ Let's connect and explore opportunities to collaborate 🚀
 ![](https://github-readme-stats.vercel.app/api?username=LouaiKhodary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LouaiKhodary13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LouaiKhodary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouaiKhodary13&show_icons=true&theme=dark)
+
 
 ## 🏆 Licenses & Certifications:
 - Meta Front-End Developer Specialization - Coursera 
