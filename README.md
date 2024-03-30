@@ -12,61 +12,28 @@ Let's connect and explore opportunities to collaborate!
 # 💻 Tech Stack:
 
  React.js
- <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_%2528software%2529&psig=AOvVaw1D5afs_kjOBwGuVHEiCZ1w&ust=1711848947752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCSg7bsmoUDFQAAAAAdAAAAABAI" />
-
+ 
  TypeScript
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your TypeScript SVG icon code here -->
-  </svg>
 
-  JavaScript
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your JavaScript SVG icon code here -->
-  </svg>
+ JavaScript
+ 
+ Redux.js
+ 
+ Material UI
 
-  Redux.js
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your Redux SVG icon code here -->
-  </svg>
+ Tailwind CSS
 
-  Material UI
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your Material UI SVG icon code here -->
-  </svg>
+ Chakra UI
 
-  Tailwind CSS
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your Tailwind CSS SVG icon code here -->
-  </svg>
-
-  Chakra UI
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your Chakra UI SVG icon code here -->
-  </svg>
-
-  Git
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your Git SVG icon code here -->
-  </svg>
+ Git
 
  GitHub
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your GitHub SVG icon code here -->
-  </svg>
 
  Cascading Style Sheets (CSS)
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your CSS SVG icon code here -->
-  </svg>
 
  HTML5
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
-    <!-- Your HTML5 SVG icon code here -->
-  </svg>
 
-
-
-- # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LouaiKhodary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LouaiKhodary13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LouaiKhodary13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
