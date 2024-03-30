@@ -10,37 +10,37 @@ Let's connect and explore opportunities to collaborate!
 ![](https://github-profile-trophy.vercel.app/?username=LouaiKhodary13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
-- React.js
+  React.js
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="30" height="30">
 
-- TypeScript
+  TypeScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30">
 
-- JavaScript
+  JavaScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
 
-- Redux.js
+  Redux.js
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux.js" width="30" height="30">
 
-- Material UI
+  Material UI
   <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="30" height="30">
 
-- Tailwind CSS
+  Tailwind CSS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30">
 
-- Chakra UI
+  Chakra UI
   <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" alt="Chakra UI" width="30" height="30">
 
-- Git
+  Git
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30">
 
-- GitHub
+  GitHub
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30">
 
-- Cascading Style Sheets (CSS)
+  Cascading Style Sheets (CSS)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
 
-- HTML5
+  HTML5
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
 
 - # 📊 GitHub Stats:
