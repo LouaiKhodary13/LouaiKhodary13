@@ -12,7 +12,7 @@ Let's connect and explore opportunities to collaborate!
 # 💻 Tech Stack:
 
  React.js
- <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_%2528software%2529&psig=AOvVaw1D5afs_kjOBwGuVHEiCZ1w&ust=1711848947752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCSg7bsmoUDFQAAAAAdAAAAABAI">
+ <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_%2528software%2529&psig=AOvVaw1D5afs_kjOBwGuVHEiCZ1w&ust=1711848947752000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCSg7bsmoUDFQAAAAAdAAAAABAI" />
 
  TypeScript
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="30" height="30">
